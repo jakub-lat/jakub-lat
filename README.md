@@ -3,14 +3,15 @@
 I'm Jakub. What's up?
 
 ## Preferred technologies
-* JS/TS 
-* React
-* CSS
 * C#
 * Unity
 * Go 
 * Rust 
 * Flutter
+* JS/TS 
+* React, Vue, Svelte
+* Sass
+* Tailwindcss
 * SQL
 
 ## Some random unnecessary stats
