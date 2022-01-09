@@ -2,17 +2,18 @@
 
 I'm Jakub. What's up?
 
-## Preferred technologies
-* C#
-* Unity
-* Go 
-* Rust 
-* Flutter
-* JS/TS 
-* React, Vue, Svelte
-* Sass
-* Tailwindcss
-* SQL
+## Fluent in
+Go | C# | Unity | Typescript | React | CSS | Tailwindcss | Bootstrap
+
+## Somewhat comfortable in
+Vue | Svelte | Sass | Python | PyTorch | Tensorflow | SQL | Flutter | Java | Rust | Linux
+
+## Currently working on
+A new game at [Cubepotato](https://cubepotato.eu)
+
+
+
+
 
 ## Some random unnecessary stats
 
