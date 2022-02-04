@@ -2,10 +2,12 @@
 
 I'm Jakub. What's up?
 
-## Fluent in
+I'm the co-founder of https://cubepotato.eu and I'm a fullstack programmer & indie game developer.
+
+### Fluent in
 Go | C# | Unity | Typescript | React | CSS | Tailwindcss | Bootstrap
 
-## Somewhat comfortable in
+### Somewhat comfortable in
 Vue | Svelte | Sass | Python | PyTorch | Tensorflow | SQL | Flutter | Java | Rust | Linux
 
 ## Currently working on
