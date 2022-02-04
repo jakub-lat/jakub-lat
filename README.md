@@ -9,7 +9,7 @@ Go | C# | Unity | Typescript | React | CSS | Tailwindcss | Bootstrap
 Vue | Svelte | Sass | Python | PyTorch | Tensorflow | SQL | Flutter | Java | Rust | Linux
 
 ## Currently working on
-A new game at [Cubepotato](https://cubepotato.eu)
+A private CRM system and a new game at [Cubepotato](https://cubepotato.eu)
 
 
 
