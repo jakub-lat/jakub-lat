@@ -1,4 +1,4 @@
-# Jakub Lat
+# Jakub
 
 Sup.
 
