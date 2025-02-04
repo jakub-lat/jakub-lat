@@ -1,17 +1,9 @@
 # Jakub
 
-Sup.
-
-I'm a software engineer (mostly fullstack), [indie game developer](https://cubepotato.eu) and [CTF player](https://ctftime.org/team/185960).
-
-### Areas of interest
-Frontend | Backend | Mobile | Gamedev | DevOps | SysAdmin | CyberSec
-
-### Languages & tech
-Any that I'm into at the moment. Mostly C# (Unity/Asp.Net), Go, Rust, Python, Flutter and JavaScript with all the fancy frameworks.
+software engineer • ctf player • ai enthusiast • game developer @ [cubepotato](https://cubepotato.eu)
 
 ### Currently working on
-[Telegraphist 1920: Beats of War](https://telegraphist1920.com)
+[Telegraphist 1920: Beats of War](https://telegraphist1920.com) + many side projects
 
 
 ### Some random stats
