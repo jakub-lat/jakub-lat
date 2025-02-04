@@ -1,6 +1,6 @@
 # Jakub
 
-software engineer • ctf player • ai enthusiast • game developer @ [cubepotato](https://cubepotato.eu)
+software engineer • ai enthusiast • ctf player @ [zazolcgeslajazn](https://ctftime.org/team/185960) • game developer @ [cubepotato](https://cubepotato.eu)
 
 ### Currently working on
 [Telegraphist 1920: Beats of War](https://telegraphist1920.com) + many side projects
