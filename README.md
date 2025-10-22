@@ -1,6 +1,6 @@
 # Jakub
 
-programming sometimes • playing ctfs @ [wrong_flag](https://wrongflag.team) • making games @ [cubepotato](https://cubepotato.eu)
+occasionally programming • playing ctfs @ [wrong_flag](https://wrongflag.team) • making games @ [cubepotato](https://cubepotato.eu)
 
 Wishlist [Telegraphist 1920: Beats of War](https://telegraphist1920.com) on Steam !!!
 
